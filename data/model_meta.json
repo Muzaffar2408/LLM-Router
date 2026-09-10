@@ -1,0 +1,18 @@
+{
+  "groq-llama3.1-70b": {
+    "quality_tier": "high",
+    "verbosity_factor": 1.1
+  },
+  "groq-gemma-7b": {
+    "quality_tier": "medium",
+    "verbosity_factor": 0.9
+  },
+  "hf-qwen-1.5b-coder": {
+    "quality_tier": "low",
+    "verbosity_factor": 1.2
+  },
+  "hf-zephyr-7b": {
+    "quality_tier": "medium",
+    "verbosity_factor": 0.8
+  }
+}

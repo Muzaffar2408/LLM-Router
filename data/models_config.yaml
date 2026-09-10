@@ -1,0 +1,28 @@
+- key: groq-llama3.1-70b
+  provider: groq
+  model_id: openai/gpt-oss-safeguard-20b
+  display_name: Safety GPT OSS 20B (Groq)
+  context_window: 131072
+  cost_per_1k_input_tokens: 0.00059
+  cost_per_1k_output_tokens: 0.00079
+- key: groq-gemma-7b
+  provider: groq
+  model_id: allam-2-7b
+  display_name: ALLaM 2 7B (Groq)
+  context_window: 4096
+  cost_per_1k_input_tokens: 0.00007
+  cost_per_1k_output_tokens: 0.00007
+- key: hf-qwen-1.5b-coder
+  provider: huggingface
+  model_id: Qwen/Qwen2.5-Coder-1.5B-Instruct
+  display_name: Qwen 2.5 Coder 1.5B (HF)
+  context_window: 32768
+  cost_per_1k_input_tokens: 0.00005
+  cost_per_1k_output_tokens: 0.00005
+- key: hf-zephyr-7b
+  provider: huggingface
+  model_id: HuggingFaceH4/zephyr-7b-beta
+  display_name: Zephyr 7B Beta (HF)
+  context_window: 8192
+  cost_per_1k_input_tokens: 0.00010
+  cost_per_1k_output_tokens: 0.00010

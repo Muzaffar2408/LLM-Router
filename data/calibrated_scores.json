@@ -1,0 +1,38 @@
+{
+  "groq-llama3.1-70b": {
+    "coding": 9.5,
+    "math_reasoning": 8.5,
+    "classification_extraction": 9.0,
+    "creative_writing": 8.0,
+    "summarization": 8.5,
+    "general_qa": 9.0,
+    "analysis": 9.0
+  },
+  "groq-gemma-7b": {
+    "coding": 5.5,
+    "math_reasoning": 6.0,
+    "classification_extraction": 7.0,
+    "creative_writing": 6.5,
+    "summarization": 6.0,
+    "general_qa": 7.0,
+    "analysis": 6.0
+  },
+  "hf-qwen-1.5b-coder": {
+    "coding": 7.5,
+    "math_reasoning": 5.0,
+    "classification_extraction": 4.0,
+    "creative_writing": 3.0,
+    "summarization": 4.0,
+    "general_qa": 4.5,
+    "analysis": 5.0
+  },
+  "hf-zephyr-7b": {
+    "coding": 5.0,
+    "math_reasoning": 5.5,
+    "classification_extraction": 6.5,
+    "creative_writing": 7.5,
+    "summarization": 7.0,
+    "general_qa": 6.5,
+    "analysis": 6.0
+  }
+}
