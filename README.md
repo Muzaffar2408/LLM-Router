@@ -3,7 +3,7 @@
 LLM Cost Autopilot is an intelligent, dynamic query router designed to slash LLM API inference costs while maintaining high quality. It intercepts user prompts, evaluates their complexity and task category, and dynamically routes them to the most cost-effective model capable of handling the request.
 
 ## Key Metrics
-* **93.2% Reduction in Inference Costs**
+* **60% Reduction in Inference Costs**
 * **64.9% Reduction in Average Latency**
 * **81.2% Capability Retention** (compared to always defaulting to a 70B+ model)
 
